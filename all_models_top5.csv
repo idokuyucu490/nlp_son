@@ -1,0 +1,81 @@
+model_name,rank,sentence_index,cosine_score,id,text
+lemmatized_cbow_win2_dim100,1,1050,0.41246,670668,main potassium chloride potassium chloride potassium chloride meq pkt meq pkt po
+lemmatized_cbow_win2_dim100,2,5907,0.35195,2794531,main nystatin oral suspension nystatin oral suspension nystatin oral suspension unit udcup ml udcup po
+lemmatized_cbow_win2_dim100,3,68,0.33645,86598,main chlorhexidine gluconate oral rinse chlorhexidine gluconate oral rinse chlorhexidine gluconate ml cup ml udcup oral
+lemmatized_cbow_win2_dim100,4,7803,0.3247,3336402,base sodium chloride ml bag ml ml iv
+lemmatized_cbow_win2_dim100,5,9645,0.32136,3485017,main morphine sr m contin morphine sr m contin morphine sr m contin mg tab mg tab po
+lemmatized_cbow_win2_dim300,1,9940,0.23032,3494118,main lactulose lactulose lactulose gml cup ml udcup ng
+lemmatized_cbow_win2_dim300,2,1365,0.21244,745232,main calcium carbonate calcium carbonate calcium carbonate tum mg tablet mg tab po
+lemmatized_cbow_win2_dim300,3,6996,0.20879,3315741,main gabapentin gabapentin gabapentin liquid conc mg ml mg ml pong
+lemmatized_cbow_win2_dim300,4,6573,0.20863,3301360,main atorvastatin atorvastatin atorvastatin mg tablet mg tab po
+lemmatized_cbow_win2_dim300,5,2451,0.19109,1098620,main latanoprost ophth soln latanoprost ophth soln latanoprost ophth soln ml dropper bottle drop dbtl ou
+lemmatized_cbow_win4_dim100,1,3685,0.35628,2102288,main sodium bicarbonate meq vial meq vial iv
+lemmatized_cbow_win4_dim100,2,420,0.35559,310517,main senna senna senna ml oral syringe ml syr ng
+lemmatized_cbow_win4_dim100,3,2944,0.33725,1519886,main acetaminophen acetaminophen acetaminophen liquid mg ud cup mg udcup po
+lemmatized_cbow_win4_dim100,4,2031,0.33613,936145,main lorazepam lorazepam lorazepam mgml syringe mg ml iv
+lemmatized_cbow_win4_dim100,5,8462,0.33147,3361329,main piperacillintazobactam na g frozen bag g bag iv
+lemmatized_cbow_win4_dim300,1,1292,0.20503,744543,main insulin insulin insulin sliding scale dummy package for sliding scale unit vial sc
+lemmatized_cbow_win4_dim300,2,3927,0.19956,2192624,main diphenhydramine hcl diphenhydramine hcl diphenhydramine hcl mg cap mg cap po
+lemmatized_cbow_win4_dim300,3,3558,0.19703,1861251,main vasopressin uml vial unit ml iv drip
+lemmatized_cbow_win4_dim300,4,4482,0.19573,2246606,main normocarb ml vial ml vial iv
+lemmatized_cbow_win4_dim300,5,1800,0.19159,922275,main warfarin warfarin warfarin mg tablet mg tab po
+lemmatized_skipgram_win2_dim100,1,2070,0.37658,945602,main sodium chloride flush sodium chloride flush sodium chloride flush syringe ml syr iv
+lemmatized_skipgram_win2_dim100,2,1707,0.35155,920802,main trazodone trazodone trazodone mg tablet mg tab po
+lemmatized_skipgram_win2_dim100,3,5355,0.34291,2632333,main docusate sodium docusate sodium docusate sodium mg capsule mg cap po
+lemmatized_skipgram_win2_dim100,4,693,0.32998,455847,main ampicillin sodium g vial gm vial iv
+lemmatized_skipgram_win2_dim100,5,6227,0.3285,3091804,main olanzapine olanzapine olanzapine mg tablet mg tab po
+lemmatized_skipgram_win2_dim300,1,2509,0.22199,1203045,main acetaminophen acetaminophen acetaminophen mg tablet mg tab po
+lemmatized_skipgram_win2_dim300,2,5157,0.22013,2588873,main senna senna senna tablet tab tab po
+lemmatized_skipgram_win2_dim300,3,2627,0.2034,1255611,main nitroprusside sodium mgmlml mg ml iv drip
+lemmatized_skipgram_win2_dim300,4,3034,0.1978,1521376,main metolazone metolazone metolazone mg tab mg tab po
+lemmatized_skipgram_win2_dim300,5,1058,0.19379,670676,base dextrose ml bag ml ml iv
+lemmatized_skipgram_win4_dim100,1,7262,0.38616,3318901,main phenylephrine mgml vial mg vial iv drip
+lemmatized_skipgram_win4_dim100,2,7873,0.33848,3339136,main insulin insulin insulin sliding scale dummy package for sliding scale unit vial sc
+lemmatized_skipgram_win4_dim100,3,6675,0.32977,3306616,main glucagon glucagon glucagon mg vial mg vial im
+lemmatized_skipgram_win4_dim100,4,3919,0.32867,2192616,main docusate sodium docusate sodium docusate sodium mg cap mg cap po
+lemmatized_skipgram_win4_dim100,5,8319,0.32368,3360065,main prednisone prednisone prednisone mg tablet mg tab po
+lemmatized_skipgram_win4_dim300,1,8181,0.22265,3355975,main heparin heparin heparin sodium unit ml ml vial unit ml sc
+lemmatized_skipgram_win4_dim300,2,5934,0.21473,2794558,main metronidazole mg premix bag mg bag iv
+lemmatized_skipgram_win4_dim300,3,5816,0.19398,2786623,base n ml bab ml ml iv
+lemmatized_skipgram_win4_dim300,4,4999,0.19348,2559212,main levofloxacin mg premix bag mg bag iv
+lemmatized_skipgram_win4_dim300,5,1466,0.19002,749368,main prednisone prednisone prednisone mg tab mg tab po
+stemmed_cbow_win2_dim100,1,5095,0.37738,2570382,main oxycodon immedi releas oxycodon immedi releas oxycodon immedi releas mg tablet mg tab po
+stemmed_cbow_win2_dim100,2,7491,0.36163,3321424,main artifici tear preserv free artifici tear preserv free artifici tear preserv free ml ud drop drp both eye
+stemmed_cbow_win2_dim100,3,7940,0.35115,3339800,main magnesium sulfat g ml premix bag gm bag iv
+stemmed_cbow_win2_dim100,4,4060,0.34557,2240053,base dextros ml bag ml ml iv
+stemmed_cbow_win2_dim100,5,9336,0.34478,3480899,main dexamethason sod phosphat mgml ml vial mg ml iv
+stemmed_cbow_win2_dim300,1,2825,0.20461,1450919,main morphin sulfat morphin sulfat morphin sulfat syring mg syring mg syr iv
+stemmed_cbow_win2_dim300,2,5088,0.20232,2569691,main heparin sodium unit premix bag unit bag iv
+stemmed_cbow_win2_dim300,3,6312,0.19617,3147278,main methylprednisolon sodium succ methylprednisolon sodium succ methylprednisolon sodium succ mg vial mg vial iv
+stemmed_cbow_win2_dim300,4,9239,0.19323,3479583,addit sodium bicarbon meq vial meq vial iv
+stemmed_cbow_win2_dim300,5,1923,0.193,924578,main diazepam diazepam diazepam mg tab mg tab po
+stemmed_cbow_win4_dim100,1,3769,0.34638,2182232,base ns ml bag ml ml iv
+stemmed_cbow_win4_dim100,2,3904,0.34635,2191870,main docus sodium liquid docus sodium liquid docus sodium liquid mg ud cup mg udcup ng
+stemmed_cbow_win4_dim100,3,2490,0.34309,1203026,main heparin heparin heparin sodium unit ml ml vial unit ml sc
+stemmed_cbow_win4_dim100,4,3451,0.32627,1574002,main amiodaron hcl mgml vial mg vial iv
+stemmed_cbow_win4_dim100,5,4095,0.32228,2240741,base dw ml bag ml ml iv
+stemmed_cbow_win4_dim300,1,2636,0.25295,1314226,base dw heparin base ml ml iv
+stemmed_cbow_win4_dim300,2,9320,0.21377,3480883,base dextros ml bag ml ml iv
+stemmed_cbow_win4_dim300,3,923,0.20758,608910,main piperacillintazobactam na g frozen bag g bag iv
+stemmed_cbow_win4_dim300,4,9743,0.20397,3485823,base sodium chlorid ml bag ml ml iv
+stemmed_cbow_win4_dim300,5,7238,0.19482,3318338,base lr ml bag ml bag iv
+stemmed_skipgram_win2_dim100,1,4001,0.39934,2228828,main prednison prednison prednison mg tab mg tab po
+stemmed_skipgram_win2_dim100,2,1746,0.36801,920841,base isoosmot dextros ml bag ml ml iv
+stemmed_skipgram_win2_dim100,3,7486,0.36183,3321419,main albuterol neb soln albuterol neb soln albuterol neb soln ml vial neb vial ih
+stemmed_skipgram_win2_dim100,4,1005,0.3396,653025,main diltiazem diltiazem diltiazem mgml vial mg vial iv
+stemmed_skipgram_win2_dim100,5,4533,0.32754,2336562,base sodium chlorid ml bag ml ml iv
+stemmed_skipgram_win2_dim300,1,8045,0.19943,3344271,main morphin sulfat morphin sulfat morphin sulfat syring mg syring mg syr iv
+stemmed_skipgram_win2_dim300,2,3271,0.18892,1564541,main phenytoin phenytoin phenytoin sodium extend mg cap mg cap po
+stemmed_skipgram_win2_dim300,3,2633,0.18217,1314223,base sodium chlorid ml bag ml bag iv
+stemmed_skipgram_win2_dim300,4,5469,0.18046,2684172,main chlorhexidin glucon oral rins chlorhexidin glucon oral rins chlorhexidin glucon ml cup ml udcup oral
+stemmed_skipgram_win2_dim300,5,3237,0.17571,1563815,main digoxin digoxin digoxin mgml amp mg amp iv
+stemmed_skipgram_win4_dim100,1,7743,0.38682,3325269,main aluminummagnesium hydroxsimethicon aluminummagnesium hydroxsimethicon aluminummagnesium hydroxsimethicon ml udcup ml udcup pong
+stemmed_skipgram_win4_dim100,2,9855,0.38104,3493160,main metronidazol flagyl mg premix bag mg bag iv
+stemmed_skipgram_win4_dim100,3,1540,0.3565,792676,base isoosmot dextros ml bag ml ml iv
+stemmed_skipgram_win4_dim100,4,1534,0.34749,792670,main morphin sulfat mgml premix mg btl iv drip
+stemmed_skipgram_win4_dim100,5,9549,0.3454,3483889,main morphin sulfat morphin sulfat morphin sulfat syring mg syring mg syr iv
+stemmed_skipgram_win4_dim300,1,6897,0.2067,3309124,main cefepim mg vial mg mg iv
+stemmed_skipgram_win4_dim300,2,7169,0.19507,3317672,main sodium chlorid flush sodium chlorid flush sodium chlorid flush syring ml syr iv
+stemmed_skipgram_win4_dim300,3,3836,0.18555,2183527,main artifici tear ointment artifici tear ointment artifici tear ointment gm tube appl tube ou
+stemmed_skipgram_win4_dim300,4,2963,0.18312,1519905,main lorazepam lorazepam lorazepam mgml syring mg ml iv
+stemmed_skipgram_win4_dim300,5,1237,0.1826,743116,main furosemid furosemid furosemid mgml vial mg vial iv
